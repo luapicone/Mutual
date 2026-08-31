@@ -32,69 +32,39 @@ Alberto Miguel Chichilnitzky (albertomiguelchi@gmail.com)
 
 ÍNDICE GENERAL
 
-1. Contexto internacional
-
-Conceptos teóricos más relevantes identificados ................................................... Pág. 4
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ....................... Pág. 4
-
-2. Las mutuales en el nuevo escenario económico financiero
-
-Conceptos teóricos más relevantes identificados ................................................... Pág. 5
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ....................... Pág. 5
-
-3. Elementos normativos y jurídicos de la gestión financiera
-
-Conceptos teóricos más relevantes identificados ................................................... Pág. 6
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ....................... Pág. 6
-
-4. Plan de Negocios
-
-Conceptos teóricos más relevantes identificados ................................................... Pág. 7
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ....................... Pág. 7
-
-5. Principios de Gobierno Corporativo
-
-Conceptos teóricos más relevantes identificados ................................................... Pág. 8
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ....................... Pág. 8
-
-6. Gestión de Riesgos Corporativos
-
-Conceptos teóricos más relevantes identificados ................................................... Pág. 9
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ....................... Pág. 9
-
-7. Riesgo Operacional
-
-Conceptos teóricos más relevantes identificados ................................................. Pág. 10
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ...................... Pág. 10
-
-8. Administración de tecnologías informáticas y seguridad tecnológica
-
-Conceptos teóricos más relevantes identificados ................................................. Pág. 11
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ...................... Pág. 11
-
-9. Prevención de lavado de activos y financiamiento del terrorismo
-
-Conceptos teóricos más relevantes identificados ................................................. Pág. 12
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ...................... Pág. 12
-
-10. Control de Gestión
-
-Conceptos teóricos más relevantes identificados ................................................. Pág. 13
-
-Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ...................... Pág. 13
-
-Conclusión Final e Integración Institucional ....................................................... Pág. 15
-
-Bibliografía y Fuentes Normativas ........................................................................ Pág. 16
+Introducción al Proyecto .................................................................................... Pág. 3
+1. Contexto internacional .................................................................................... Pág. 4
+1.1 Conceptos teóricos más relevantes identificados ............................................ Pág. 4
+1.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos .................. Pág. 4
+2. Las mutuales en el nuevo escenario económico financiero ................................. Pág. 5
+2.1 Conceptos teóricos más relevantes identificados ............................................ Pág. 5
+2.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos .................. Pág. 5
+3. Elementos normativos y jurídicos de la gestión financiera ................................ Pág. 6
+3.1 Conceptos teóricos más relevantes identificados ............................................ Pág. 6
+3.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos .................. Pág. 6
+4. Plan de Negocios ............................................................................................. Pág. 7
+4.1 Conceptos teóricos más relevantes identificados ............................................ Pág. 7
+4.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos .................. Pág. 7
+5. Principios de Gobierno Corporativo ................................................................. Pág. 8
+5.1 Conceptos teóricos más relevantes identificados ............................................ Pág. 8
+5.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos .................. Pág. 8
+6. Gestión de Riesgos Corporativos ...................................................................... Pág. 9
+6.1 Conceptos teóricos más relevantes identificados ............................................ Pág. 9
+6.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos .................. Pág. 9
+7. Riesgo Operacional ........................................................................................ Pág. 10
+7.1 Conceptos teóricos más relevantes identificados ........................................... Pág. 10
+7.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ................. Pág. 10
+8. Administración de tecnologías informáticas y seguridad tecnológica .................. Pág. 11
+8.1 Conceptos teóricos más relevantes identificados ........................................... Pág. 11
+8.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ................. Pág. 11
+9. Prevención de lavado de activos y financiamiento del terrorismo ...................... Pág. 12
+9.1 Conceptos teóricos más relevantes identificados ........................................... Pág. 12
+9.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ................. Pág. 12
+10. Control de Gestión ....................................................................................... Pág. 13
+10.1 Conceptos teóricos más relevantes identificados ......................................... Pág. 13
+10.2 Aplicación práctica en el Servicio de Ahorro de la Mutual de Todos ............... Pág. 13
+11. Conclusión Final e Integración Institucional .................................................. Pág. 15
+12. Bibliografía y Fuentes Normativas ............................................................... Pág. 16
 
 ===PAGEBREAK===
 
